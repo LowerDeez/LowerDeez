@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Full-Stack developer
+## Hi there 👋 I'm a Python&Django developer
 
 
 <a href="https://t.me/Oleg4L">
