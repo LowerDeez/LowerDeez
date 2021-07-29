@@ -63,10 +63,9 @@
 ![LowerDeez github stats](https://github-readme-stats.vercel.app/api?username=LowerDeez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![LowerDeez Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowerDeez&layout=compact&count_private=true&theme=gruvbox)
 ![LowerDeez ok-seo](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-seo&theme=gruvbox)
+![LowerDeez ok-likes](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-likes&theme=gruvbox)
+![LowerDeez ok-images](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-images&theme=gruvbox)
+![LowerDeez ok-cart](https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-cart&theme=gruvbox)
 
-<a href="https://github.com/LowerDeez/ok-seo" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-seo&theme=gruvbox""></a>
-<a href="https://github.com/LowerDeez/ok-likes" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-likes&theme=gruvbox""></a>
-<a href="https://github.com/LowerDeez/ok-images" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-images&theme=gruvbox""></a>
-<a href="https://github.com/LowerDeez/ok-cart" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LowerDeez&repo=ok-cart&theme=gruvbox""></a>  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LowerDeez.LowerDeez)
